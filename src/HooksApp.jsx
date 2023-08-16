@@ -2,6 +2,6 @@
 
 export const HooksApp = () => {
   return (
-    <h1>HooksApp</h1>
+    <h1>HooksApplol</h1>
   )
 }
