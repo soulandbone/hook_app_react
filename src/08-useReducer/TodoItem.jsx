@@ -10,6 +10,7 @@ export const TodoItem = ({todo, onDeleteTodo, onToggleTodo}) => {
       
        : '' }`}
     onClick={() => onToggleTodo(todo.id)}
+    aria-label="span"
     >
       {todo.description}
     </span>
